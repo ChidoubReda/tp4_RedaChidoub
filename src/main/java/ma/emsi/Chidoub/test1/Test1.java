@@ -1,4 +1,4 @@
-package ma.emsi.Chidoub;
+package ma.emsi.Chidoub.test1;
 
 import dev.langchain4j.data.document.Document;
 import dev.langchain4j.data.document.DocumentParser;
